@@ -20,6 +20,7 @@
     "node-fetch": "^2.6.1",
     "page-metadata-parser": "^1.1.4",
     "pug": "^2.0.0-rc.1",
+    "valid-url": "^1.0.9",
     "winston": "^3.3.3"
   }
 }
