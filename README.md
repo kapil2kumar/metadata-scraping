@@ -28,5 +28,5 @@ $ Node version must be >= 7
 7. domino
 
 Open in Browser
-. http://localhost:3000/
-. http://localhost:3000/api-docs
+$ http://localhost:3000/
+$ http://localhost:3000/api-docs
