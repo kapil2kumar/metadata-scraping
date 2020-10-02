@@ -19,14 +19,14 @@ $ node server.js or npm start
 $ Node version must be >= 7 
 
 ## NPM Module
-express
-express-swagger-generator
-morgan and winston ## for logging
-node-cache ##for caching
-node-fetch
-page-metadata-parser
-domino
+1. express
+2. express-swagger-generator
+3. morgan and winston ## for logging
+4. node-cache ##for caching
+5. node-fetch
+6. page-metadata-parser
+7. domino
 
 Open in Browser
-http://localhost:3000/
-http://localhost:3000/api-docs
+. http://localhost:3000/
+. http://localhost:3000/api-docs
