@@ -1,0 +1,25 @@
+{
+  "name": "metadata-scraping",
+  "version": "0.0.1",
+  "description": "METADATA SCRAPING FROM A GIVEN WEB PAGE URL",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Kapil Kumar",
+  "license": "Unlicense",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "domino": "^2.1.6",
+    "express": "^4.15.2",
+    "express-jsonschema": "^1.1.6",
+    "express-swagger-generator": "^1.1.17",
+    "morgan": "^1.10.0",
+    "node-cache": "^5.1.2",
+    "node-fetch": "^2.6.1",
+    "page-metadata-parser": "^1.1.4",
+    "pug": "^2.0.0-rc.1",
+    "winston": "^3.3.3"
+  }
+}
